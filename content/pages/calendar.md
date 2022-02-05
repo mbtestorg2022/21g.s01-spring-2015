@@ -4,28 +4,255 @@ title: Calendar
 uid: cb40dabb-2416-bda7-3529-61426dc31b40
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| 1–2 |  {{< br >}}{{< br >}} Introduction and Presentation of the Course {{< br >}}{{< br >}} A General Cartography of Mexico City's Urban Landscapes and History {{< br >}}{{< br >}}  |
-| 3–4 | Conceptual Tools to Approach Mexican Urban Culture |
-| 5 | 1880: Signs of the Metropolitan Development and Political Dissidence |
-| 6 | The Revolution Arrives to the Capital |
-| 7 | Cultural Nationalism, Avant Garde and Urban Spaces |
-| 8 | Mexico City: The Bitter Taste of Progress (1940–50): Part I |
-| 9 | Mexico City: The Bitter Taste of Progress (1940–50): Part 2 |
-| 10 | Carlos Fuente's Comprehensive Gaze of the City |
-| 11 | A Modern City. Place of Memory and Dystopia |
-| 12 | Strolling Mexico City's Emblematic Urban Spaces and Popular Culture |
-| 13 | Tlatelolco and the 60's |
-| 14 |  {{< br >}}{{< br >}} Post Tlatelolco Mexico City. The Decomposition of a Comprehensive Gaze {{< br >}}{{< br >}} Prepare for the Debate {{< br >}}{{< br >}}  |
-| 15 |  {{< br >}}{{< br >}} D. F. 1985: Horror, Solidarity and Destruction {{< br >}}{{< br >}} Class Debate {{< br >}}{{< br >}}  |
-| 16 |  {{< br >}}{{< br >}} Crisis, Democratization and Dispersion Part 1 {{< br >}}{{< br >}} Class Debate {{< br >}}{{< br >}}  |
-| 17 | Last Day of Debates |
-| 18 | Crisis, Democratization and Dispersion Part 2 |
-| 19 | 100 Years of Revolution |
-| 20 | NAFTA and Mexico City Decentralization |
-| 21 | Border Cities vs. Mexico City |
-| 22 | A Global View of Mexico City Part 1 |
-| 23 | A Global View of Mexico City Part 2 |
-| 24 | A Global View of Mexico City Part 3 |
-| 25–26 |  {{< br >}}{{< br >}} Conclusion of the Class {{< br >}}{{< br >}} Presentations {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction and Presentation of the Course
+
+A General Cartography of Mexico City's Urban Landscapes and History
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–4
+{{< tdclose >}}
+{{< tdopen >}}
+Conceptual Tools to Approach Mexican Urban Culture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+1880: Signs of the Metropolitan Development and Political Dissidence
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Revolution Arrives to the Capital
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Cultural Nationalism, Avant Garde and Urban Spaces
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Mexico City: The Bitter Taste of Progress (1940–50): Part I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Mexico City: The Bitter Taste of Progress (1940–50): Part 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Carlos Fuente's Comprehensive Gaze of the City
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+A Modern City. Place of Memory and Dystopia
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Strolling Mexico City's Emblematic Urban Spaces and Popular Culture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Tlatelolco and the 60's
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Post Tlatelolco Mexico City. The Decomposition of a Comprehensive Gaze
+
+Prepare for the Debate
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+D. F. 1985: Horror, Solidarity and Destruction
+
+Class Debate
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Crisis, Democratization and Dispersion Part 1
+
+Class Debate
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Last Day of Debates
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Crisis, Democratization and Dispersion Part 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+100 Years of Revolution
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+NAFTA and Mexico City Decentralization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Border Cities vs. Mexico City
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+A Global View of Mexico City Part 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+A Global View of Mexico City Part 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+A Global View of Mexico City Part 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25–26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Conclusion of the Class
+
+Presentations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
